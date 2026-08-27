@@ -74,6 +74,21 @@
    - 💛 Gotcha
    - 💛 References
 
+### [CloudFront Invalidation](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20CloudFront%20Invalidation.md)
+- 💚 CloudFront Invalidation
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works
+      - 🤍 Request Flow
+      - 🤍 Path rules
+      - 🤍 Example: create and check an invalidation (CLI)
+   - 💛 Cost (this is the part people miss)
+   - 💛 Limits
+   - 💛 Invalidation vs versioned URLs (prefer versioning)
+   - 💛 Gotcha
+   - 💛 References
+
 ### [How CloudFront Works](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20How%20CloudFront%20Works.md)
 - 💚 How CloudFront Works
    - 💛 What is it?
