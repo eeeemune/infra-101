@@ -144,6 +144,22 @@
 
 
 ## DNS
+### [Cloudflare Cache Purging](https://github.com/eeeemune/Infra-Notes/blob/main/-/[DNS]%20Cloudflare%20Cache%20Purging.md)
+- 💚 Cloudflare Cache Purging
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 Purge methods (broad to surgical)
+   - 💛 How it works (Instant Purge)
+      - 🤍 Request Flow
+      - 🤍 Example: purge specific URLs (API)
+      - 🤍 Example: purge everything
+      - 🤍 Example: purge by Cache-Tag (Enterprise)
+      - 🤍 Example: purge a URL that varies by header
+   - 💛 Purge vs the alternatives
+   - 💛 Gotcha
+   - 💛 References
+
 ### [How to Set Certificate with Let’s Encrypt (Via Certbot)](https://github.com/eeeemune/Infra-Notes/blob/main/-/[DNS]%20How%20to%20Set%20Certificate%20with%20Let’s%20Encrypt%20%28Via%20Certbot%29.md)
 - 💚 How to Set Certificate with Let’s Encrypt (Via Certbot)
    - 💛 Install Certbot
