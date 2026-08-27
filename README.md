@@ -74,6 +74,19 @@
    - 💛 Gotcha
    - 💛 References
 
+### [How CloudFront Works](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20How%20CloudFront%20Works.md)
+- 💚 How CloudFront Works
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How does it work?
+      - 🤍 Request Flow (hit vs miss)
+      - 🤍 Example: the origin controls TTL
+      - 🤍 Example: invalidate cached content
+      - 🤍 Example: private S3 origin with OAC
+   - 💛 Gotcha
+   - 💛 References
+
 ### [How to Block Specific IP Address by AWS WAF](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20How%20to%20Block%20Specific%20IP%20Address%20by%20AWS%20WAF.md)
 - 💚 How to Block Specific IP Address by AWS WAF
 - 💚 How to Block a Specific IP Address using AWS WAF
