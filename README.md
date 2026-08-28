@@ -800,6 +800,20 @@
    - 💛 Gotcha
    - 💛 References
 
+### [Trunk-Based Development](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20Trunk-Based%20Development.md)
+- 💚 Trunk-Based Development
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works
+      - 🤍 Diagram
+      - 🤍 Feature flags (the enabler)
+      - 🤍 Short-lived branch flow
+   - 💛 Release patterns
+   - 💛 Trunk-based vs GitFlow
+   - 💛 Gotcha
+   - 💛 References
+
 ### [What does ‘next build’ do](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20What%20does%20‘next%20build’%20do.md)
 - 💚 What does ‘next build’ do?
    - 💛 Short Answer
