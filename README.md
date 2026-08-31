@@ -308,6 +308,21 @@
 
 
 ## GitHub
+### [GitHub Cloud Runner Base Image (custom images)](https://github.com/eeeemune/Infra-Notes/blob/main/-/[GitHub]%20GitHub%20Cloud%20Runner%20Base%20Image%20%28custom%20images%29.md)
+- 💚 GitHub Cloud Runner Base Image (custom images)
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works (snapshot, not Packer)
+      - 🤍 Step 1: create an image-generation runner
+      - 🤍 Step 2: generate the image with a snapshot workflow
+      - 🤍 Step 3: create a runner that uses the image
+      - 🤍 Versioning
+   - 💛 Constraints and cost
+   - 💛 Bake vs install vs cache (the real decision)
+   - 💛 Gotcha
+   - 💛 References
+
 ### [GitHub Stacked PR](https://github.com/eeeemune/Infra-Notes/blob/main/-/[GitHub]%20GitHub%20Stacked%20PR.md)
 - 💚 GitHub Stacked PR
    - 💛 What is it?
