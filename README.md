@@ -543,6 +543,19 @@
    - 💛 Gotcha
    - 💛 References
 
+### [Karpenter do-not-disrupt](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Karpenter%20do-not-disrupt.md)
+- 💚 Karpenter do-not-disrupt
+   - 💛 What is it?
+   - 💛 Why do we need it?
+   - 💛 What counts as disruption
+   - 💛 How to use it
+      - 🤍 On a pod (most common)
+      - 🤍 On a node or NodeClaim
+   - 💛 The safety valve: terminationGracePeriod
+   - 💛 Note on older annotations
+   - 💛 Gotcha
+   - 💛 References
+
 ### [Kubernetes CRD (Custom Resource Definition)](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Kubernetes%20CRD%20%28Custom%20Resource%20Definition%29.md)
 - 💚 Kubernetes CRD (Custom Resource Definition)
 - 💚 Kubernetes CRD (Custom Resource Definition)
