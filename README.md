@@ -910,6 +910,22 @@
    - 💛 Best Practices
    - 💛 References
 
+### [Terraform: Dependency-Driven Behavior](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Terraform]%20Terraform:%20Dependency-Driven%20Behavior.md)
+- 💚 Terraform: Dependency-Driven Behavior
+   - 💛 What is it?
+   - 💛 Why do we need it?
+   - 💛 The lifecycle block
+      - 🤍 create_before_destroy
+      - 🤍 prevent_destroy
+      - 🤍 ignore_changes
+      - 🤍 replace_triggered_by (Terraform 1.2+)
+   - 💛 How replacement propagates
+   - 💛 Related tools
+      - 🤍 precondition / postcondition (Terraform 1.2+)
+      - 🤍 terraform_data triggers
+   - 💛 Gotcha
+   - 💛 References
+
 
 ## Terrraform
 ### [Terraform Module](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Terrraform]%20Terraform%20Module.md)
