@@ -956,6 +956,35 @@
    - 💛 References
 
 
+## Trouble Shootings
+### [Asset 404s on app.chartmetric.com](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Trouble%20Shootings]%20Asset%20404s%20on%20app.chartmetric.com.md)
+- 💚 Asset 404s on app.chartmetric.com
+- 💚 Summary
+- 💚 Impact
+- 💚 Root cause
+   - 💛 Two mechanisms, not one
+      - 🤍 Rollout skew, about 90 seconds per deploy
+      - 🤍 Stale HTML, hours to days
+   - 💛 Why it looked random
+- 💚 What we ruled out
+   - 💛 The measurement that settled it
+- 💚 What we shipped
+   - 💛 Why S3 fixes it
+   - 💛 Design decisions worth knowing
+      - 🤍 No lifecycle expiry on the bucket
+      - 🤍 Routing by path, not a separate hostname
+      - 🤍 Behaviour order is load-bearing
+- 💚 Results
+   - 💛 Three deploys, counting 403 and 404 together
+   - 💛 The cutover itself
+   - 💛 Stopping HTML caching
+- 💚 24 hours later
+   - 💛 It held
+   - 💛 The overnight spike that was not one
+   - 💛 Two corrections to earlier figures on this page
+   - 💛 Operational note
+
+
 ## TroubleShootings
 ### [docker-entrypoint.sh: exec format error](https://github.com/eeeemune/Infra-Notes/blob/main/-/[TroubleShootings]%20docker-entrypoint.sh:%20exec%20format%20error.md)
 - 😵 Error Situation
