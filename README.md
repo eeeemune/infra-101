@@ -14,6 +14,21 @@
    - 💛 Gotcha
    - 💛 References
 
+### [AWS CodeBuild](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20AWS%20CodeBuild.md)
+- 💚 AWS CodeBuild
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works
+      - 🤍 Build flow
+      - 🤍 buildspec.yml
+      - 🤍 Example: start a build (CLI)
+   - 💛 Where it fits
+   - 💛 Environment and compute
+   - 💛 Cost
+   - 💛 Gotcha
+   - 💛 References
+
 ### [AWS Glue](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20AWS%20Glue.md)
 - 💚 AWS Glue
 - 💚 AWS Glue
