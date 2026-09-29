@@ -558,6 +558,19 @@
    - 💛 Gotcha
    - 💛 References
 
+### [KEDA (Kubernetes Event-Driven Autoscaling)](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20KEDA%20%28Kubernetes%20Event-Driven%20Autoscaling%29.md)
+- 💚 KEDA (Kubernetes Event-Driven Autoscaling)
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works
+      - 🤍 Flow
+      - 🤍 Example: ScaledObject on an SQS queue
+      - 🤍 ScaledObject vs ScaledJob
+   - 💛 Authentication
+   - 💛 Gotcha
+   - 💛 References
+
 ### [Karpenter do-not-disrupt](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Karpenter%20do-not-disrupt.md)
 - 💚 Karpenter do-not-disrupt
    - 💛 What is it?
