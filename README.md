@@ -143,6 +143,19 @@
       - 🤍 basic connectivity
       - 🤍 Test with credentials
 
+### [How to build a serverless AI agent that lives in Slack](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20How%20to%20build%20a%20serverless%20AI%20agent%20that%20lives%20in%20Slack.md)
+- 💚 How to build a serverless AI agent that lives in Slack
+   - The constraint you are designing around
+   - The architecture
+   - Step 1: Put a Lambda at the door
+   - Step 2: Put SQS FIFO in the middle
+   - Step 3: Use two queues, not one
+   - Step 4: Run the work in a container
+   - Step 5: Instrument the edge without paying for it
+   - Failure modes to design for before they happen
+   - Decisions this guide does not make for you
+   - Minimum checklist before you call it done
+
 ### [How to connect your terminal to EKS](https://github.com/eeeemune/Infra-Notes/blob/main/-/[AWS]%20How%20to%20connect%20your%20terminal%20to%20EKS.md)
 - 💚 How to connect your terminal to EKS
 - 💚 How to connect your terminal to EKS
