@@ -780,6 +780,19 @@
    - 💛 Gotcha
    - 💛 References
 
+### [Facade Pattern](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20Facade%20Pattern.md)
+- 💚 Facade Pattern
+   - 💛 What is it?
+   - 💛 Why do we need it?
+      - 🤍 Real-world use case
+   - 💛 How it works
+      - 🤍 Structure
+      - 🤍 Example (Python): an order facade
+   - 💛 Facade vs its neighbors
+   - 💛 Where you have already seen it
+   - 💛 Gotcha
+   - 💛 References
+
 ### [How VPN Works](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20How%20VPN%20Works.md)
 - 💚 How VPN Works?
    - 💛 What is a VPN?
