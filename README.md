@@ -496,6 +496,23 @@
    - 💛 Gotcha
    - 💛 References
 
+### [Cluster Autoscaler vs Karpenter](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Cluster%20Autoscaler%20vs%20Karpenter.md)
+- 💚 Cluster Autoscaler vs Karpenter
+   - 💛 In Short
+   - 💛 Why Do We Need It?
+   - 💛 How Does It Work?
+      - 🤍 CA Request Flow
+      - 🤍 Karpenter Request Flow
+   - 💛 Comparison
+   - 💛 When to Use Which
+   - 💛 Example
+      - 🤍 Karpenter NodePool
+      - 🤍 CA Key Flags
+   - 💛 Operational Tips
+   - 💛 Follow-up Questions
+   - 💛 30-Second Answer
+   - 💛 References
+
 ### [ECS to EKS Migration Guide](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20ECS%20to%20EKS%20Migration%20Guide.md)
 - 💚 ECS to EKS Migration Guide
    - 💛 Before You Start…
