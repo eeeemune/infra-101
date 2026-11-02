@@ -625,6 +625,28 @@
    - 💛 Real-world example architecture
       - 🤍 AWS Secrets → Kubernetes
 
+### [Kubernetes Fundamentals](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Kubernetes%20Fundamentals.md)
+- 💚 Kubernetes Fundamentals
+   - 💛 Workloads: when to use what
+      - 🤍 Follow-up questions
+   - 💛 Service types: where traffic comes in
+      - 🤍 Request Flow
+      - 🤍 Follow-up questions
+   - 💛 Probes: what happens when one fails
+      - 🤍 Example
+      - 🤍 Follow-up questions
+   - 💛 cordon, drain, taint: how you move pods off a node
+      - 🤍 Example
+      - 🤍 Follow-up questions
+   - 💛 CrashLoopBackOff: a state, not an error
+      - 🤍 Example
+      - 🤍 Narrowing by exit code
+      - 🤍 Follow-up questions
+   - 💛 Secrets: base64 is not encryption
+      - 🤍 Envelope encryption flow
+      - 🤍 Follow-up questions
+   - 💛 References
+
 ### [Kubernetes Job](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Kubernetes]%20Kubernetes%20Job.md)
 - 💚 Kubernetes Job
    - 💛 What is it?
