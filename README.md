@@ -877,6 +877,27 @@
    - 💛 Obtain SSL certificate
    - 💛 Enable auto-renual
 
+### [How to train your own model](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20How%20to%20train%20your%20own%20model.md)
+- 💚 How to train your own model
+   - 💛 What is it?
+   - 💛 Why do we need it?
+   - 💛 How does it work?
+      - 🤍 Request Flow
+      - 🤍 1. Collect: build the dataset
+      - 🤍 2. Label: get answers you're allowed to learn from
+      - 🤍 3. Train: fine-tune with QLoRA
+      - 🤍 4. Test: a fair exam with a gate
+      - 🤍 5. Serve: shadow first, then cut over
+      - 🤍 6. Watch: monitor and retrain
+   - 💛 Example
+      - 🤍 Example: one training row (JSONL)
+      - 🤍 Example: QLoRA fine-tune with Hugging Face TRL
+      - 🤍 Example: the non-inferiority gate
+      - 🤍 Example: serve it with Ollama
+   - 💛 Common traps
+   - 💛 What it costs (rough)
+   - 💛 References
+
 ### [Next.js Build → Docker Build](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20Next.js%20Build%20→%20Docker%20Build.md)
 - 💚 Next.js Build → Docker Build
    - 💛 What You Deploy in Next.js?
