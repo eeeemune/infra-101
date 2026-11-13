@@ -879,24 +879,98 @@
 
 ### [How to train your own model](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20How%20to%20train%20your%20own%20model.md)
 - 💚 How to train your own model
-   - 💛 What is it?
-   - 💛 Why do we need it?
-   - 💛 How does it work?
+   - 💛 How to use this guide
+   - 💛 The big picture
       - 🤍 Request Flow
-      - 🤍 1. Collect: build the dataset
-      - 🤍 2. Label: get answers you're allowed to learn from
-      - 🤍 3. Train: fine-tune with QLoRA
-      - 🤍 4. Test: a fair exam with a gate
-      - 🤍 5. Serve: shadow first, then cut over
-      - 🤍 6. Watch: monitor and retrain
+   - 💛 Module 0: Set up your toolkit
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 1: How an LLM works (enough to reason about it)
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 2: ML basics for classification
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 3: Evaluation, the owner's main job
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 4: Data and labeling
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 5: Serving: quantization, GGUF and Ollama
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 6: Fine-tuning with LoRA and QLoRA
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 7: MLOps: track, register, promote, watch
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 8: GPUs and the cluster
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own
+      - 🤍 Do this
+      - 🤍 Self-check
+   - 💛 Module 9: Rights, licenses and privacy
+      - 🤍 Why it matters
+      - 🤍 Core ideas
+      - 🤍 Decisions you own (with legal)
+      - 🤍 Self-check
+   - 💛 Owner's checklist
+      - 🤍 Before labeling starts
+      - 🤍 Before training
+      - 🤍 Before promotion
+      - 🤍 After cutover
+   - 💛 Red flags when reviewing a model result
+   - 💛 8-week study plan (about 5 hours a week)
+   - 💛 Glossary
    - 💛 Example
       - 🤍 Example: one training row (JSONL)
+      - 🤍 Example: how much GPU memory
+      - 🤍 Example: agreement between two annotators
+      - 🤍 Example: how big a gold set
       - 🤍 Example: QLoRA fine-tune with Hugging Face TRL
       - 🤍 Example: the non-inferiority gate
+      - 🤍 Example: log runs to MLflow
       - 🤍 Example: serve it with Ollama
+      - 🤍 Example: force valid labels with structured outputs
    - 💛 Common traps
    - 💛 What it costs (rough)
    - 💛 References
+      - 🤍 Module 0: toolkit
+      - 🤍 Module 1: how an LLM works
+      - 🤍 Module 2: ML basics for classification
+      - 🤍 Module 3: evaluation
+      - 🤍 Module 4: data and labeling
+      - 🤍 Module 5: serving
+      - 🤍 Module 6: fine-tuning
+      - 🤍 Module 7: MLOps
+      - 🤍 Module 8: GPUs and the cluster
+      - 🤍 Module 9: rights and licenses
 
 ### [Next.js Build → Docker Build](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Others]%20Next.js%20Build%20→%20Docker%20Build.md)
 - 💚 Next.js Build → Docker Build
