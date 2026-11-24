@@ -424,6 +424,24 @@
    - 💛 References
 
 
+## Guide
+### [Develop Customer Statements (dunning) on your Mac](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Guide]%20Develop%20Customer%20Statements%20%28dunning%29%20on%20your%20Mac.md)
+- 💚 Develop Customer Statements (dunning) on your Mac
+- 💚 Develop Customer Statements (dunning) on your Mac
+   - 💛 What you get
+   - 💛 Before you start: the checklist
+   - 💛 Step 1: Install the exact toolchain
+   - 💛 Step 2: Clone and install
+   - 💛 Step 3: Fill in .env
+   - 💛 Step 4: Run it
+      - 🤍 The production image: make up
+   - 💛 Step 5: Run the same checks as the PR
+   - 💛 Step 6: Ship a change
+      - 🤍 Adding a database migration
+      - 🤍 Changing the API contract
+   - 💛 Safety rules
+
+
 ## Harbor
 ### [How to Check Harbor Connection](https://github.com/eeeemune/Infra-Notes/blob/main/-/[Harbor]%20How%20to%20Check%20Harbor%20Connection.md)
 - 💚 How to Check Harbor Connection
